@@ -83,6 +83,44 @@ this patch modifies places that we're checking for implicit
 transactions to instead check for single statement transactions
 ```
 
+_Fix is tagged in builds..._
+
+- v23.1.0-alpha.00000000
+- v22.2.0
+- v22.2.0-rc.3
+- v22.2.0-rc.2
+- v22.2.0-rc.1
+- v22.2.0-beta.5
+- v22.2.0-beta.4
+- v22.2.0-beta.3
+- v22.2.0-beta.2
+- v22.2.0-beta.1
+- v22.2.0-alpha.4
+- v22.2.0-alpha.3
+- v22.2.0-alpha.2
+- v22.2.0-alpha.1
+- v22.2.0-alpha.00000000
+- custombuild-v22.2.0-beta.5-59-g3a8bf9fd51f
+- custombuild-v22.2.0-alpha.3-1315-ge956611336
+- custombuild-v22.2.0-alpha.3-1315-gc941dfa066
+- custombuild-v22.2.0-alpha.3-1315-g96a1c6a3ef
+- custombuild-v22.2.0-alpha.3-1315-g94fe24a5b0
+- custombuild-v22.2.0-alpha.3-1315-g24e8baa987
+- custombuild-v22.2.0-alpha.3-1315-g2eb734daf2
+- custombuild-v22.2.0-alpha.3-1074-g3d64ee63e5
+- custombuild-v22.2.0-alpha.3-1000-gbdbe1707eb0
+- custombuild-v22.2.0-alpha.3-1000-g4f525537322
+- @cockroacklabs/cluster-ui@22.2.0-prerelease-3
+- @cockroacklabs/cluster-ui@22.2.0-prerelease-2
+- @cockroacklabs/cluster-ui@22.2.0-prelease-1
+- @cockroachlabs/cluster-ui@23.1.0-prerelease.0
+- @cockroachlabs/cluster-ui@22.2.0
+- @cockroachlabs/cluster-ui@22.2.0-prerelease-8
+- @cockroachlabs/cluster-ui@22.2.0-prerelease-7
+- @cockroachlabs/cluster-ui@22.2.0-prerelease-6
+- @cockroachlabs/cluster-ui@22.2.0-prerelease-5
+- @cockroachlabs/cluster@22.2.0-prerelease-4
+
 # Other refs
 
 https://stackoverflow.com/questions/51073697/refresh-materialized-view-does-not-work-using-jdbc#comment131925227_51073697
